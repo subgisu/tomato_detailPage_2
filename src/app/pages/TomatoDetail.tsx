@@ -19,8 +19,8 @@ import {
 } from "lucide-react";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { NutritionIllustration } from "../components/NutritionIllustration";
-import heroImage from "figma:asset/4f9311fec42ef4f708f65adc92a53b16574df160.png";
-import qualityImage from "figma:asset/ec64936fadaf959e9080d99698a6cc57e04ccf12.png";
+import heroImage from "../../assets/4f9311fec42ef4f708f65adc92a53b16574df160.png";
+import qualityImage from "../../assets/ec64936fadaf959e9080d99698a6cc57e04ccf12.png";
 
 const images = {
   hero: heroImage,
